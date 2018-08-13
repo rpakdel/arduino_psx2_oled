@@ -15,4 +15,4 @@ Arduino wireless PS2 controller with OLED example.
 * Receiver CS or ATTENTION or pin 6 -> Arduino 10
 * Receiver CLK or COMMAND or pin 7 -> Arduino 9
 
-![Receiver pins](arduino_psx2_oled/ps2_pins.jpg)
+![](https://github.com/rpakdel/arduino_psx2_oled/blob/master/ps2_pins.jpg)
