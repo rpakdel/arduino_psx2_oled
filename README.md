@@ -16,3 +16,7 @@ Arduino wireless PS2 controller with OLED example.
 * Receiver CLK or COMMAND or pin 7 -> Arduino 9
 
 ![](https://github.com/rpakdel/arduino_psx2_oled/blob/master/ps2_pins.jpg)
+
+# Requirement
+
+Grab the PS2 library from https://github.com/madsci1016/Arduino-PS2X
